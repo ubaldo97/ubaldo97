@@ -51,6 +51,11 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+  <code><img height="40" src="https://github.com/ubaldo97/ubaldo97/blob/main/img/linux.png"></code>
+  <code><img height="40" src="https://github.com/ubaldo97/ubaldo97/blob/main/img/php.png"></code>
+  <code><img height="40" src="https://github.com/ubaldo97/ubaldo97/blob/main/img/vhdl.png"></code>
+  <code><img height="40" src="https://github.com/ubaldo97/ubaldo97/blob/main/img/cppl.png"></code>
+  <code><img height="40" src="https://github.com/ubaldo97/ubaldo97/blob/main/img/css.png"></code>
 
   </p>
   
