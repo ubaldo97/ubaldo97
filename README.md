@@ -65,6 +65,8 @@
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/ubaldo97/ubaldo97/main/img/spring.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/ubaldo97/ubaldo97/main/img/laravel.png"></code>
   
   </p>
 &nbsp;
