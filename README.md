@@ -11,7 +11,7 @@
   <!-- Social Network -->
 <h1 align="center">
  
-<a href="https://www.linkedin.com/in/ubaldo-p%C3%A1nuco-sandoval-65366318a/">
+<a href="https://www.linkedin.com/in/ubaldo-sandoval/">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
