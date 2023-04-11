@@ -59,7 +59,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/ubaldo97/ubaldo97/main/img/css.png"></code>
 
   </p>
-  -->
+ 
 &nbsp;  
 
   <!-- Skills to learn -->
@@ -70,6 +70,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/ubaldo97/ubaldo97/main/img/laravel.png"></code>
   
   </p>
+   -->
 &nbsp;
 
 <!-- GitHub Stats -->
