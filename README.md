@@ -31,19 +31,12 @@
 
 <!-- Background -->
 
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
-
 &nbsp;
 
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈
   </strong>
 </H2>
-    <p align="center">
-      <div align="center">
-    </p>
     
 <a href="https://github.com/ubaldo97?tab=repositories">
   <img
