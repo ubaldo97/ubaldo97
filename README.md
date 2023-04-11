@@ -1,15 +1,16 @@
 <!-- Title -->
 <h1 align="center">Hello World 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+  <img 
+       src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
-  </h2></h1>
+</h1>
 
 
 <!-- Quote -->
 <p align="center">
   
   <!-- Social Network -->
-<h1 align="center">
+<h1 align="center">Contact</h1>
  
 <a href="https://www.linkedin.com/in/ubaldo-sandoval/">
   <img align="center" 
@@ -24,7 +25,7 @@
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
-</h1>
+
 
 <!-- Background -->
 
