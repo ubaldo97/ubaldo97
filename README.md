@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://github.com/ubaldo97?tab=repositories">
   <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaldo97" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaldo97&layout=compact" 
        alt='Ubaldo's favorite languages" />
 </a>
                                                                                                                                            
